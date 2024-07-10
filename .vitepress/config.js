@@ -32,7 +32,7 @@ export default defineConfig({
     // socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
     footer: {
       message: 'SimplePOS - Point of Sale Made Easy',
-      copyright: 'Copyright © 2013-present Tecdiary IT Solutions',
+      copyright: 'Copyright © 2013-present <a href="https://tecdiary.net" target="_blank">Tecdiary IT Solutions</a>',
     },
   },
   markdown: {

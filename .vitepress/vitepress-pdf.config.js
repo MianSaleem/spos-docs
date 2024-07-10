@@ -11,8 +11,8 @@ const config = {
     scale: 1,
     margin: {
       top: 60,
-      left: 20,
-      right: 20,
+      left: 30,
+      right: 30,
       bottom: 40,
     },
   },
