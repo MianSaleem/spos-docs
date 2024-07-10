@@ -4,7 +4,7 @@ outline: deep
 
 # Developer Guide
 
-SimplePOS v5 id developed using Laravel, Inertiajs & Vuejs.
+SimplePOS v5 is developed using Laravel, Inertiajs & Vuejs.
 The main page contents can be changed by editing `app/Http/Controllers/HomeController.php`
 
 ## Code Modifications
