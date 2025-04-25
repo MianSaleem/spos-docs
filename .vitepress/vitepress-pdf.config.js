@@ -11,9 +11,9 @@ const config = {
     scale: 1,
     margin: {
       top: 60,
-      left: 30,
-      right: 30,
-      bottom: 40,
+      left: 50,
+      right: 50,
+      bottom: 50,
     },
   },
   sorter: (pageA, pageB) => {
